@@ -1,0 +1,12 @@
+<?php
+$str = "Hello String";
+$x = 200;
+$y = 44.6;
+
+echo "String is : $str \n";
+echo "Integer is : $x \n";
+echo "Float is : $y";
+
+echo"This code is written and excecuted by MehakBhutani_0231BCA063";
+
+?>
