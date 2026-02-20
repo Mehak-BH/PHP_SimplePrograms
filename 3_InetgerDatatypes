@@ -1,0 +1,16 @@
+<?php
+$a = 123;
+var_dump($a);
+
+$b = 123;
+var_dump($b);
+
+$c = 0x1A;   // 0x for hexadecimal
+var_dump($c);
+
+$d = 0123;   // 0 for octal
+var_dump($d);
+
+echo"This code is written and excecuted by MehakBhutani_0231BCA063";
+?>
+
