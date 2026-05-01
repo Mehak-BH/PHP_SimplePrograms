@@ -1,0 +1,6 @@
+<?php
+$x="Mehak Bhutani";
+echo "My name is $x";
+echo "<br>";
+echo "This code is written and excecuted by MehakBhutani_0231BCA063";
+?>
